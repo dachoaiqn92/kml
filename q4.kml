@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Quận 4</name>
+    <NetworkLink>
+      <name>Untitled map</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1Z8k-XWZOtBPN8W4AgVRF_-gqNFQ&lid=jhdJdcPf4Es]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
