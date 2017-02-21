@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Bản đồ Quận 9</name>
+    <description>Quận 9 là một quận ngoại ô của Thành phố Hồ Chí Minh. http://www.nhaban.net.vn/ban-do/ban-do-quan-9 Quận được thành lập theo Nghị định số 03-CP của Thủ tướng Chính phủ ngày 6 tháng 1 </description>
+    <NetworkLink>
+      <name>Bản đồ Quận 9</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1WV23lzxXZNNN8IDvlbzPN_OgB7Q]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
