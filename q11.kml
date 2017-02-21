@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Lớp không có tiêu đề</name>
+    <Style id="poly-DB4436-2-15-normal">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>0f3644db</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-DB4436-2-15-highlight">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>0f3644db</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-DB4436-2-15">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-DB4436-2-15-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-DB4436-2-15-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Quận 11</name>
+      <description>Quận 11 là một trong 24 quận, huyện của Thành phố Hồ Chí Minh. http://www.nhaban.net.vn/ban-do/ban-do-quan-11 Quận chính thức được thành lập vào ngày 1 tháng 7 năm 1969 </description>
+      <styleUrl>#poly-DB4436-2-15</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              106.6624188,10.7553596,0
+              106.6614747,10.7584584,0
+              106.6610456,10.7602292,0
+              106.6599727,10.7639604,0
+              106.6559386,10.7785264,0
+              106.6532135,10.7755964,0
+              106.6524625,10.7690406,0
+              106.6519046,10.769146,0
+              106.647656,10.775238,0
+              106.6446519,10.7751537,0
+              106.6440511,10.7748375,0
+              106.6418195,10.7716967,0
+              106.6410899,10.7719707,0
+              106.6403389,10.7715702,0
+              106.6375279,10.7690617,0
+              106.6355753,10.7695676,0
+              106.6356826,10.7671645,0
+              106.635747,10.7626534,0
+              106.6349959,10.759913,0
+              106.6341591,10.7590276,0
+              106.637249,10.7555071,0
+              106.6375923,10.7547061,0
+              106.6508961,10.7535045,0
+              106.6519475,10.7534201,0
+              106.6527629,10.753378,0
+              106.6624188,10.7553596,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

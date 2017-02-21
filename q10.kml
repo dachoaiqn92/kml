@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Bản đồ Quận 10</name>
+    <description>Quận 10 có địa hình tương đối bằng phẳng, cao trên 2 mét so với mực nước . http://www.nhaban.net.vn/ban-do/ban-do-quan-10 Quận 10 là một trong những quận trung tâm của Thành phố Hồ Chí Minh</description>
+    <Style id="poly-DB4436-2-22-normal">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>163644db</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-DB4436-2-22-highlight">
+      <LineStyle>
+        <color>ff3644db</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>163644db</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-DB4436-2-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-DB4436-2-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-DB4436-2-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Lớp không có tiêu đề</name>
+      <Placemark>
+        <name>Quận 10</name>
+        <description>Quận 10 có địa hình tương đối bằng phẳng, cao trên 2 mét so với mực nước . http://www.nhaban.net.vn/ban-do/ban-do-quan-10 Quận 10 là một trong những quận trung tâm</description>
+        <styleUrl>#poly-DB4436-2-22</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                106.6562176,10.7780416,0
+                106.6614962,10.758353,0
+                106.6745424,10.7608827,0
+                106.6817522,10.765436,0
+                106.6745853,10.7678391,0
+                106.6761732,10.7699049,0
+                106.6782761,10.772055,0
+                106.6828251,10.7758493,0
+                106.6816235,10.7778308,0
+                106.6644144,10.7870211,0
+                106.6562176,10.7780416,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
